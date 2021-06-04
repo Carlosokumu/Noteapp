@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- Primary brand color. -->
+    <style name="Theme.Kot" parent="Theme.AppCompat.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#545454</item>
+        <item name="colorPrimaryVariant">#69B64D</item>
+        <item name="colorOnPrimary">#545454</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#69B64D</item>
+        <item name="colorSecondaryVariant">#69B64D</item>
+        <item name="android:windowBackground">#545454</item>
+        <item name="colorOnSecondary">#545454</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
